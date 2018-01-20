@@ -149,6 +149,9 @@ p {
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
 }
+.sidebar-wrapper .interests-container .container-block {
+  margin-bottom: 0;
+}
 .sidebar-wrapper .interests-list {
   margin-bottom: 0;
 }
