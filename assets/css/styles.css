@@ -102,7 +102,10 @@ p {
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
 }
-.sidebar-wrapper .contact-list .email .fa {
+.sidebar-wrapper .contact-list .fa fa-linkedin .fa {
+  font-size: 14px;
+}
+.sidebar-wrapper .contact-list .fa fa-university .fa {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
