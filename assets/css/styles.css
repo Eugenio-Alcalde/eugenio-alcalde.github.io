@@ -154,7 +154,7 @@ p {
 }
 
 .sidebar-wrapper .interests-list {
-  margin-bottom: 10;
+  margin-bottom: 0;
 }
 .sidebar-wrapper .interests-list li {
   margin-bottom: 10px;
@@ -162,7 +162,9 @@ p {
 .sidebar-wrapper .interests-list li:last-child {
   margin-bottom: 0;
 }
-
+.sidebar-wrapper .counter12 {
+  margin-bottom: 10px;
+}
 .main-wrapper {
   background: #fff;
   padding: 60px;
